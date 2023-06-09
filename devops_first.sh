@@ -14,3 +14,4 @@ sleep 4
 
 echo "I am an aspiring DevOps engineer"
 
+echo "The first argument that you passed is $1"
