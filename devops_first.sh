@@ -6,3 +6,11 @@ echo "I will be a great devops engineer"
 
 name="Amrit"
 echo "hello, my name is ${name}"
+
+read age
+echo "My age is ${age}"
+
+sleep 4
+
+echo "I am an aspiring DevOps engineer"
+
